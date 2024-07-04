@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Farhana from Stockholm, Sweden. I recently graduated as a Data Scientist. 
+
 <!--
 **FarhanaMos/FarhanaMos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
