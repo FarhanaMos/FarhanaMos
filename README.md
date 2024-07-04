@@ -12,13 +12,13 @@ I am enthusiastic about data science and constantly seek to expand my knowledge 
 - **Programming Languages**: Python, R
 - **Data Analysis**: Pandas, NumPy
 - **Machine Learning**: Scikit-Learn, TensorFlow, Keras
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Data Visualization**: Matplotlib, Seaborn
 - **Databases**: SQL, GCP(Big Query)
 - **BI Tools**: Power BI
 
 
 
-Thank you for visiting my GitHub portfolio!
+Thank you for visiting my GitHub portfolio! 🌟
 
 
 <!--
