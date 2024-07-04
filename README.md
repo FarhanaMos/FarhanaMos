@@ -1,4 +1,4 @@
-# Welcome to Farhana GitHub Portfolio
+# Welcome to Farhana GitHub Portfolio 👋
 
 Hello! I am a recent graduate as a Data Scientist. I am passionate about exploring and learning new things in data science. This portfolio showcases some of the projects I've worked on and the skills I've developed.
 
@@ -7,7 +7,7 @@ Hello! I am a recent graduate as a Data Scientist. I am passionate about explori
 I am enthusiastic about data science and constantly seek to expand my knowledge and skills. I enjoy working on projects that allow me to apply my learning practically, and I'm excited to share my work with you.
 
 
-## Skills
+## Skills 💡 
 
 - **Programming Languages**: Python, R
 - **Data Analysis**: Pandas, NumPy
