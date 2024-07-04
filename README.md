@@ -13,7 +13,8 @@ I am enthusiastic about data science and constantly seek to expand my knowledge 
 - **Data Analysis**: Pandas, NumPy
 - **Machine Learning**: Scikit-Learn, TensorFlow, Keras
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Databases**: SQL
+- **Databases**: SQL, GCP(Big Query)
+- **BI Tools**: Power BI
 
 
 
